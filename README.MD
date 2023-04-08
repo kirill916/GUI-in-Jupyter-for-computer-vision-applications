@@ -1,7 +1,3 @@
-# Background Information:
-
-Coding Project for Professor Mario Silic' course 8,789,1.00 Programming with Advanced Computer Languages
-by Kirill Kazakov
 
 # Description
 
